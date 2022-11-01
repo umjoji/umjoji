@@ -2,8 +2,8 @@
 
 
 
-- 👀 I’m interested in data science, machine learning, python, sql, django, and web development
-- 🌱 I’m currently learning HTML, CSS, Django, Python
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me @umjoji on Twitter or https://linkedin.com/akanimoh-george
 
